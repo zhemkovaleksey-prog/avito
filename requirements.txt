@@ -1,0 +1,9 @@
+# Проверено на Python 3.11
+pandas==3.0.2
+pyarrow==25.0.1
+numpy==2.4.4
+scipy==1.17.1
+scikit-learn==1.8.0
+lightgbm==4.7.0
+pymorphy3==2.0.6
+pymorphy3-dicts-ru==2.4.417150.4580142
